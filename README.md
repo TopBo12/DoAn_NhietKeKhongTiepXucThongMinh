@@ -41,7 +41,7 @@ kết nối IoT phục vụ giám sát từ xa.
   Chứa sơ đồ nguyên lý (Schematic), layout PCB và các file thiết kế mạch
   phục vụ chế tạo phần cứng của hệ thống.
 ## 6.Note
-1.Thay đổi ssid = "name wifi" và password = "pass wifi".
+1.Thay đổi ssid = "name wifi" và password = "pass wifi"  
 2.Tạo QR code ở dạng text với dạng text là :{"id":"mã id","name": "Tên người dùng","channel":channel trên thingspeak ,"key": "mã API key của channel trên thingspeak"}.
 
 
