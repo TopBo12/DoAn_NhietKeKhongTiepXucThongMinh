@@ -1,5 +1,4 @@
 # DoAn_NhietKeKhongTiepXucThongMinh
-# Nhiệt kế không tiếp xúc thông minh
 
 ## 1. Tên đề tài
 Nhiệt kế không tiếp xúc thông minh
@@ -29,12 +28,12 @@ kết nối IoT phục vụ giám sát từ xa.
 
 ## 5. Nội dung các thư mục
 
-- `Code/`  
+- `DOAN2`  
   Chứa toàn bộ mã nguồn chương trình điều khiển hệ thống đo nhiệt độ
   không tiếp xúc sử dụng ESP32-CAM, bao gồm đọc dữ liệu từ cảm biến
   MLX90614, quét QR Code, hiển thị LCD và gửi dữ liệu lên ThingSpeak.
 
-- `BaoCao/`  
+- `Báo Cáo Đồ Án II`  
   Chứa file báo cáo đồ án “Nhiệt kế không tiếp xúc thông minh” định dạng Word,
   trình bày đầy đủ cơ sở lý thuyết, thiết kế hệ thống, thực nghiệm và đánh giá kết quả.
 
@@ -44,5 +43,4 @@ kết nối IoT phục vụ giám sát từ xa.
 
 - `HinhAnh/`  
   Chứa các hình ảnh minh họa bao gồm sơ đồ khối, lưu đồ thuật toán,
-  mạch PCB và mạch thực tế của hệ thống.
-
+  mạch PCB và mạch thực tế của hệ thống
