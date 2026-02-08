@@ -28,7 +28,7 @@ kết nối IoT phục vụ giám sát từ xa.
 
 ## 5. Nội dung các thư mục
 
-- `DOAN2`  
+- `DA-2`  
   Chứa toàn bộ mã nguồn chương trình điều khiển hệ thống đo nhiệt độ
   không tiếp xúc sử dụng ESP32-CAM, bao gồm đọc dữ liệu từ cảm biến
   MLX90614, quét QR Code, hiển thị LCD và gửi dữ liệu lên ThingSpeak.
